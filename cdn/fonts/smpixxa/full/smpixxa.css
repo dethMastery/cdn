@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'SM Pixxa';
-  src: url('https://fonts.dethz.one/cdn/cdn/fonts/smpixxa/SMpixxa.woff') format('woff');
-  src: url('https://fonts.dethz.one/cdn/cdn/fonts/smpixxa/SMpixxa.woff2') format('woff2');
+  src: url('https://cdn.dethz.one/cdn/cdn/fonts/smpixxa/SMpixxa.woff') format('woff');
+  src: url('https://cdn.dethz.one/cdn/cdn/fonts/smpixxa/SMpixxa.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
